@@ -52,7 +52,7 @@ kyt includes a command line program with all the commands needed for development
 npm run dev
 ```
 
-Or you can run a command using `node_modules/.bin/kyt command`
+Or you can run a command using :  `node_modules/.bin/kyt command`
 
 ```
 node_modules/.bin/kyt build
